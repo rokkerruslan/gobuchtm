@@ -1,0 +1,19 @@
+@font-face {
+  font-family: 'font1';
+  src: url('/fonts/font4.ttf');
+}
+
+@font-face {
+  font-family: 'font2';
+  src: url('/fonts/font1.ttf');
+}
+
+@font-face {
+  font-family: 'font3';
+  src: url('/fonts/code.ttf');
+}
+
+@font-face {
+  font-family: 'Abril Fatface';
+  src: url('/fonts/Handjet-Light.ttf');
+}
